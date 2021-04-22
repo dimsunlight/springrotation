@@ -6,3 +6,6 @@ for both, and they are marked in comments. Make sure to comment the one you're n
 order to generate the 3 Kb block trees mentioned in Nimwegen et. al. 2021. The other things are meant to be assistive for conversions and other things; the 
 write.trees file includes some simple code to write trees to the current directory, while the published_samps file repeats the basic trees and base block trees
 functions for published samples you might want to pull (just change the pubmed id). 
+
+fix_negative_edge_lengths is something I found on the internet that may or may not be helpful when dealing with trees created by neighbor joining. The link
+to the original post by Le Nam is in the code file. 
